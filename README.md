@@ -14,6 +14,10 @@ Este repositorio corresponde al primer ejercicio que se realiza del curso de apl
  4. Clonamos el repositorio remoto a local
  5. Realizamos cambios
 
+##Conclusiones
+
+Git es una herramnienta que nos permite crear codigo colaborativo.
+
 ## Colaboradores
 
 - Darly Rivera
